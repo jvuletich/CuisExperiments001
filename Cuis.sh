@@ -1,9 +1,7 @@
 #!/usr/bin/env bash
-# File:        Cuis.sh, based on: squeak.sh
-# Author:      Fabio Niephaus, K K Subramaniam, Marcel Taeumel
-# Version:     2.6.1
-# Date:        2022/06/27
-# Description: Script to launch Squeak executable from a bundle
+# File:        			Cuis.sh, based on: squeak.sh
+# Author:      			Juan Vuletich, Fabio Niephaus, K K Subramaniam, Marcel Taeumel
+# Description: 			Script to launch Squeak executable from a bundle, intended for Linux systems
 # usage:
 #    Cuis [<vmargs>] [ *.image [ <stargs> ... ]]
 
